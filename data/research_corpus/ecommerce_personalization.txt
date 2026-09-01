@@ -1,0 +1,26 @@
+AI-driven product recommendation and personalisation is one of the more
+measurable, revenue-linked AI applications in e-commerce, with multiple
+independent industry analyses converging on broadly similar figures.
+Retailers using AI-powered chat and recommendation systems report
+conversion rates roughly four times higher than sites without AI
+assistance (cited around 12.3% versus 3.1% in comparative studies), and
+shoppers assisted by AI tools complete purchases faster. Personalisation
+specifically is credited with driving a meaningful share of e-commerce
+revenue directly — industry figures place product recommendations alone
+at up to 31% of e-commerce revenue for retailers that have invested in
+mature recommendation engines — and companies using AI personalisation
+report roughly 40% higher revenue than those that do not, according to
+compiled industry benchmarking. These gains are not without friction: the
+same research notes a majority of consumers still report frustration with
+impersonal shopping experiences even at companies using AI personalisation,
+implying execution quality (relevance, not just presence of AI) drives the
+gap between average and top-performing implementations. Site search
+functionality shows a similar multiplier effect independent of
+recommendations — site search users convert two to three times higher
+than non-searchers — reinforcing that e-commerce AI investment concentrated
+in search and recommendation surfaces tends to have clearer, more directly
+attributable ROI than AI investment in less measurable areas like content
+generation. Cart abandonment recovery, a related e-commerce process, is
+also increasingly AI-assisted: personalised recommendations shown at the
+point of abandonment are cited as reducing abandonment rates modestly but
+measurably compared to generic re-engagement messaging.

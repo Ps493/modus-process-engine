@@ -1,0 +1,27 @@
+IT operations and cybersecurity functions show some of the clearest
+evidence of AI shifting from full manual handling toward automated triage
+with human oversight for exceptions and high-stakes decisions. In security
+operations centres specifically, industry surveys (Gurucul's 2025 Pulse of
+the AI SOC report, cited across multiple analyses) report that a large
+majority of organisations have successfully automated routine alert
+triage, with AI-augmented SOCs detecting threats roughly 50% faster and
+reducing analyst triage workload by around 60% in aggregate industry
+figures. Critically, this is described consistently across sources as
+augmentation rather than replacement: security leaders expect AI to
+handle a majority of routine SOC workload within a few years, but human
+analysts remain responsible for complex investigation, threat hunting, and
+strategic response decisions — the automation targets the repetitive
+first-pass triage step specifically, not the judgement-heavy investigation
+that follows. IT helpdesk ticket automation shows a similar pattern: a
+2025 Forrester study cited in industry writeups found enterprises
+deploying AI-augmented IT support saw average three-year ROI around 215%,
+with payback periods averaging just over a year, concentrated in
+mid-to-large organisations with high ticket volume where the fixed cost of
+implementation is spread across more resolved tickets. Patch management
+is highlighted as one of the most automated and fastest-growing IT
+security functions — industry surveys report roughly 70% of companies
+have automated basic patch management operations, with automated patch
+deployment continuing to grow — reflecting that patching is highly
+rule-based (apply verified vendor updates on a schedule) and therefore a
+strong automation candidate with low judgement requirements, similar in
+profile to accounts payable in finance.

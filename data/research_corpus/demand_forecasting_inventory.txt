@@ -1,0 +1,17 @@
+Retailers using AI-driven demand forecasting are seeing meaningfully better
+accuracy than traditional statistical methods. Industry reporting that cites
+McKinsey research consistently points to forecast error reductions in the
+20-50% range when machine learning models replace manual or purely
+statistical forecasting, with knock-on effects including fewer stockouts,
+leaner overall inventory levels (McKinsey estimates 20-30% reductions), and
+higher order fill rates. These gains come from models that continuously
+retrain on real sales signals rather than static historical averages, so
+they adapt faster to changing demand patterns, seasonality, and the effect
+of promotions. The same body of research notes that AI-driven forecasting
+and inventory optimisation is one of the most mature and highest-adoption
+AI use cases in retail specifically because the underlying data (point-of-
+sale transactions, inventory levels, promotional calendars) is already
+well-structured, which lowers the barrier to building reliable models
+compared with less structured domains like customer service or creative
+merchandising decisions. Reported cost impacts include reduced logistics
+and procurement costs alongside reduced markdown/waste from overstocking.

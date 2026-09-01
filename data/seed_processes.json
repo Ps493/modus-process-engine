@@ -1,0 +1,506 @@
+{
+  "org_name": "Kesari Retail Group",
+  "industry": "Retail",
+  "processes": [
+    {
+      "category": "Merchandising",
+      "name": "Demand Forecasting",
+      "business_purpose_raw": "Predicting SKU-level demand by store and week using historical sales, seasonality, and promotions."
+    },
+    {
+      "category": "Merchandising",
+      "name": "Assortment Planning",
+      "business_purpose_raw": "Deciding which products to stock in which stores based on local demand and space constraints."
+    },
+    {
+      "category": "Merchandising",
+      "name": "Pricing Strategy",
+      "business_purpose_raw": "Setting and adjusting retail prices based on cost, competition, and demand elasticity."
+    },
+    {
+      "category": "Merchandising",
+      "name": "Markdown Optimisation",
+      "business_purpose_raw": "Determining when and how much to discount slow-moving inventory to clear stock profitably."
+    },
+    {
+      "category": "Merchandising",
+      "name": "Promotion Planning",
+      "business_purpose_raw": "Designing and scheduling promotional campaigns across categories and channels."
+    },
+    {
+      "category": "Merchandising",
+      "name": "Supplier Negotiation",
+      "business_purpose_raw": "Negotiating cost, terms and volume commitments with product suppliers."
+    },
+    {
+      "category": "Merchandising",
+      "name": "New Product Introduction",
+      "business_purpose_raw": "Evaluating and onboarding new products into the catalogue."
+    },
+    {
+      "category": "Merchandising",
+      "name": "Category Management",
+      "business_purpose_raw": "Managing performance and strategy for a defined product category."
+    },
+    {
+      "category": "Merchandising",
+      "name": "Private Label Development",
+      "business_purpose_raw": "Developing and managing the retailer's own-brand product lines."
+    },
+    {
+      "category": "Merchandising",
+      "name": "Visual Merchandising Planning",
+      "business_purpose_raw": "Planning in-store product placement and displays to maximise sales."
+    },
+    {
+      "category": "Supply Chain",
+      "name": "Purchase Order Management",
+      "business_purpose_raw": "Creating, approving and tracking purchase orders to suppliers."
+    },
+    {
+      "category": "Supply Chain",
+      "name": "Inventory Replenishment",
+      "business_purpose_raw": "Automatically reordering stock based on reorder points and forecasted demand."
+    },
+    {
+      "category": "Supply Chain",
+      "name": "Warehouse Receiving",
+      "business_purpose_raw": "Checking in and recording inbound shipments at distribution centres."
+    },
+    {
+      "category": "Supply Chain",
+      "name": "Warehouse Picking and Packing",
+      "business_purpose_raw": "Selecting and packing items for store or customer delivery."
+    },
+    {
+      "category": "Supply Chain",
+      "name": "Freight and Logistics Planning",
+      "business_purpose_raw": "Planning transportation routes and carrier selection for shipments."
+    },
+    {
+      "category": "Supply Chain",
+      "name": "Supplier Performance Monitoring",
+      "business_purpose_raw": "Tracking supplier on-time delivery, quality, and compliance."
+    },
+    {
+      "category": "Supply Chain",
+      "name": "Inventory Reconciliation",
+      "business_purpose_raw": "Matching physical stock counts against system records."
+    },
+    {
+      "category": "Supply Chain",
+      "name": "Returns and Reverse Logistics",
+      "business_purpose_raw": "Processing returned goods back through the supply chain."
+    },
+    {
+      "category": "Supply Chain",
+      "name": "Cross-Docking Operations",
+      "business_purpose_raw": "Transferring goods directly from inbound to outbound transport with minimal storage."
+    },
+    {
+      "category": "Supply Chain",
+      "name": "Cold Chain Monitoring",
+      "business_purpose_raw": "Tracking temperature-sensitive goods through the supply chain."
+    },
+    {
+      "category": "Store Operations",
+      "name": "Store Staff Scheduling",
+      "business_purpose_raw": "Creating weekly staff rosters based on predicted footfall and labour rules."
+    },
+    {
+      "category": "Store Operations",
+      "name": "Stock Counting",
+      "business_purpose_raw": "Performing periodic physical inventory counts in-store."
+    },
+    {
+      "category": "Store Operations",
+      "name": "Loss Prevention Monitoring",
+      "business_purpose_raw": "Detecting and investigating shrinkage, theft, and fraud in stores."
+    },
+    {
+      "category": "Store Operations",
+      "name": "Store Opening and Closing Procedures",
+      "business_purpose_raw": "Managing daily procedures for opening and closing a store."
+    },
+    {
+      "category": "Store Operations",
+      "name": "Planogram Compliance Checking",
+      "business_purpose_raw": "Verifying shelves match the intended product layout plan."
+    },
+    {
+      "category": "Store Operations",
+      "name": "Store Maintenance Requests",
+      "business_purpose_raw": "Logging and tracking equipment and facility repair needs."
+    },
+    {
+      "category": "Store Operations",
+      "name": "Point-of-Sale Transaction Processing",
+      "business_purpose_raw": "Handling customer checkout transactions."
+    },
+    {
+      "category": "Store Operations",
+      "name": "Cash Management",
+      "business_purpose_raw": "Managing till floats, cash counts, and bank deposits."
+    },
+    {
+      "category": "Store Operations",
+      "name": "Store Energy Management",
+      "business_purpose_raw": "Monitoring and optimising store energy/utility usage."
+    },
+    {
+      "category": "Store Operations",
+      "name": "New Store Setup",
+      "business_purpose_raw": "Coordinating fit-out, stocking and staffing of a newly opened store."
+    },
+    {
+      "category": "E-commerce",
+      "name": "Online Order Fulfilment",
+      "business_purpose_raw": "Processing and preparing online orders for delivery or pickup."
+    },
+    {
+      "category": "E-commerce",
+      "name": "Website Product Catalogue Management",
+      "business_purpose_raw": "Maintaining accurate product listings, descriptions and images online."
+    },
+    {
+      "category": "E-commerce",
+      "name": "Search and Recommendation Tuning",
+      "business_purpose_raw": "Improving on-site search relevance and product recommendations."
+    },
+    {
+      "category": "E-commerce",
+      "name": "Cart Abandonment Recovery",
+      "business_purpose_raw": "Identifying and re-engaging customers who left items in their cart."
+    },
+    {
+      "category": "E-commerce",
+      "name": "Online Returns Processing",
+      "business_purpose_raw": "Handling return requests and refunds for online orders."
+    },
+    {
+      "category": "E-commerce",
+      "name": "Delivery Slot Management",
+      "business_purpose_raw": "Managing available delivery time slots and capacity."
+    },
+    {
+      "category": "E-commerce",
+      "name": "Digital Payment Processing",
+      "business_purpose_raw": "Handling and reconciling online payment transactions."
+    },
+    {
+      "category": "E-commerce",
+      "name": "Website Performance Monitoring",
+      "business_purpose_raw": "Tracking uptime, load times, and conversion funnel performance."
+    },
+    {
+      "category": "E-commerce",
+      "name": "Personalisation Engine Management",
+      "business_purpose_raw": "Tailoring on-site content and offers to individual shoppers."
+    },
+    {
+      "category": "E-commerce",
+      "name": "Marketplace Listings Management",
+      "business_purpose_raw": "Managing product listings across third-party marketplaces."
+    },
+    {
+      "category": "Customer Service",
+      "name": "Customer Complaint Handling",
+      "business_purpose_raw": "Receiving, triaging and resolving customer complaints."
+    },
+    {
+      "category": "Customer Service",
+      "name": "Contact Centre Call Routing",
+      "business_purpose_raw": "Directing incoming customer calls to the right agent or department."
+    },
+    {
+      "category": "Customer Service",
+      "name": "Live Chat Support",
+      "business_purpose_raw": "Responding to real-time customer queries via chat."
+    },
+    {
+      "category": "Customer Service",
+      "name": "Loyalty Programme Management",
+      "business_purpose_raw": "Administering points, tiers and rewards for the loyalty scheme."
+    },
+    {
+      "category": "Customer Service",
+      "name": "Customer Feedback Analysis",
+      "business_purpose_raw": "Collecting and analysing survey and review feedback."
+    },
+    {
+      "category": "Customer Service",
+      "name": "Refund and Exchange Processing",
+      "business_purpose_raw": "Handling in-store and online refund/exchange requests."
+    },
+    {
+      "category": "Customer Service",
+      "name": "Warranty Claims Handling",
+      "business_purpose_raw": "Processing product warranty and guarantee claims."
+    },
+    {
+      "category": "Customer Service",
+      "name": "Customer Onboarding",
+      "business_purpose_raw": "Guiding new customers/account holders through initial setup."
+    },
+    {
+      "category": "Customer Service",
+      "name": "Social Media Customer Response",
+      "business_purpose_raw": "Responding to customer queries and complaints on social platforms."
+    },
+    {
+      "category": "Customer Service",
+      "name": "VIP/Key Account Management",
+      "business_purpose_raw": "Managing relationships with top-spending or business customers."
+    },
+    {
+      "category": "Marketing",
+      "name": "Campaign Performance Analysis",
+      "business_purpose_raw": "Measuring the effectiveness of marketing campaigns across channels."
+    },
+    {
+      "category": "Marketing",
+      "name": "Email Marketing Management",
+      "business_purpose_raw": "Creating, sending and analysing email marketing campaigns."
+    },
+    {
+      "category": "Marketing",
+      "name": "Social Media Content Planning",
+      "business_purpose_raw": "Planning and scheduling organic social media content."
+    },
+    {
+      "category": "Marketing",
+      "name": "Market Research",
+      "business_purpose_raw": "Gathering and analysing data on market trends and competitors."
+    },
+    {
+      "category": "Marketing",
+      "name": "Brand Asset Management",
+      "business_purpose_raw": "Organising and distributing brand guidelines and creative assets."
+    },
+    {
+      "category": "Marketing",
+      "name": "Customer Segmentation",
+      "business_purpose_raw": "Grouping customers by behaviour or demographics for targeting."
+    },
+    {
+      "category": "Marketing",
+      "name": "Advertising Spend Optimisation",
+      "business_purpose_raw": "Allocating ad budget across channels to maximise return."
+    },
+    {
+      "category": "Marketing",
+      "name": "Influencer Partnership Management",
+      "business_purpose_raw": "Managing relationships and campaigns with influencers."
+    },
+    {
+      "category": "Marketing",
+      "name": "Seasonal Campaign Planning",
+      "business_purpose_raw": "Planning major seasonal marketing moments (e.g. festive season)."
+    },
+    {
+      "category": "Marketing",
+      "name": "Customer Lifetime Value Modelling",
+      "business_purpose_raw": "Estimating long-term value of customer segments."
+    },
+    {
+      "category": "Human Resources",
+      "name": "Recruitment and Hiring",
+      "business_purpose_raw": "Sourcing, screening and hiring new employees."
+    },
+    {
+      "category": "Human Resources",
+      "name": "Employee Onboarding",
+      "business_purpose_raw": "Setting up new hires with systems, training and documentation."
+    },
+    {
+      "category": "Human Resources",
+      "name": "Payroll Processing",
+      "business_purpose_raw": "Calculating and disbursing employee pay."
+    },
+    {
+      "category": "Human Resources",
+      "name": "Performance Review Management",
+      "business_purpose_raw": "Running periodic employee performance evaluations."
+    },
+    {
+      "category": "Human Resources",
+      "name": "Training and Development",
+      "business_purpose_raw": "Planning and delivering employee training programmes."
+    },
+    {
+      "category": "Human Resources",
+      "name": "Employee Scheduling Compliance",
+      "business_purpose_raw": "Ensuring rosters comply with labour law and union rules."
+    },
+    {
+      "category": "Human Resources",
+      "name": "Employee Offboarding",
+      "business_purpose_raw": "Managing exit processes for departing employees."
+    },
+    {
+      "category": "Human Resources",
+      "name": "Workforce Planning",
+      "business_purpose_raw": "Forecasting staffing needs across the organisation."
+    },
+    {
+      "category": "Human Resources",
+      "name": "Employee Engagement Surveys",
+      "business_purpose_raw": "Running and analysing staff satisfaction surveys."
+    },
+    {
+      "category": "Human Resources",
+      "name": "Benefits Administration",
+      "business_purpose_raw": "Managing employee benefits enrolment and queries."
+    },
+    {
+      "category": "Finance",
+      "name": "Accounts Payable Processing",
+      "business_purpose_raw": "Processing and paying supplier invoices."
+    },
+    {
+      "category": "Finance",
+      "name": "Accounts Receivable Management",
+      "business_purpose_raw": "Tracking and collecting money owed by customers/partners."
+    },
+    {
+      "category": "Finance",
+      "name": "Financial Reporting",
+      "business_purpose_raw": "Preparing periodic financial statements and reports."
+    },
+    {
+      "category": "Finance",
+      "name": "Budget Planning",
+      "business_purpose_raw": "Creating and managing departmental and company budgets."
+    },
+    {
+      "category": "Finance",
+      "name": "Expense Report Auditing",
+      "business_purpose_raw": "Reviewing and approving employee expense claims."
+    },
+    {
+      "category": "Finance",
+      "name": "Tax Compliance Reporting",
+      "business_purpose_raw": "Preparing and filing required tax documentation."
+    },
+    {
+      "category": "Finance",
+      "name": "Cash Flow Forecasting",
+      "business_purpose_raw": "Predicting future cash inflows and outflows."
+    },
+    {
+      "category": "Finance",
+      "name": "Vendor Invoice Reconciliation",
+      "business_purpose_raw": "Matching supplier invoices against purchase orders and receipts."
+    },
+    {
+      "category": "Finance",
+      "name": "Financial Fraud Detection",
+      "business_purpose_raw": "Identifying unusual or fraudulent financial transactions."
+    },
+    {
+      "category": "Finance",
+      "name": "Capital Expenditure Approval",
+      "business_purpose_raw": "Evaluating and approving major capital investment requests."
+    },
+    {
+      "category": "IT",
+      "name": "IT Helpdesk Ticket Triage",
+      "business_purpose_raw": "Categorising and routing internal IT support requests."
+    },
+    {
+      "category": "IT",
+      "name": "System Access Provisioning",
+      "business_purpose_raw": "Granting and revoking employee access to systems."
+    },
+    {
+      "category": "IT",
+      "name": "Software Patch Management",
+      "business_purpose_raw": "Deploying security patches and updates across systems."
+    },
+    {
+      "category": "IT",
+      "name": "Network Monitoring",
+      "business_purpose_raw": "Monitoring IT infrastructure for outages and performance issues."
+    },
+    {
+      "category": "IT",
+      "name": "Data Backup and Recovery",
+      "business_purpose_raw": "Ensuring critical data is backed up and recoverable."
+    },
+    {
+      "category": "IT",
+      "name": "Vendor Software Licensing Management",
+      "business_purpose_raw": "Tracking software licences and renewal dates."
+    },
+    {
+      "category": "IT",
+      "name": "Cybersecurity Incident Response",
+      "business_purpose_raw": "Detecting and responding to security incidents."
+    },
+    {
+      "category": "IT",
+      "name": "POS System Maintenance",
+      "business_purpose_raw": "Maintaining and updating point-of-sale hardware/software."
+    },
+    {
+      "category": "IT",
+      "name": "Cloud Infrastructure Cost Management",
+      "business_purpose_raw": "Monitoring and optimising cloud spend."
+    },
+    {
+      "category": "IT",
+      "name": "Data Quality Monitoring",
+      "business_purpose_raw": "Checking enterprise data for completeness and accuracy."
+    },
+    {
+      "category": "Loss Prevention & Compliance",
+      "name": "Regulatory Compliance Monitoring",
+      "business_purpose_raw": "Tracking compliance with retail, safety and trade regulations."
+    },
+    {
+      "category": "Loss Prevention & Compliance",
+      "name": "Health and Safety Inspections",
+      "business_purpose_raw": "Conducting store and warehouse safety audits."
+    },
+    {
+      "category": "Loss Prevention & Compliance",
+      "name": "Supplier Compliance Audits",
+      "business_purpose_raw": "Auditing suppliers for ethical sourcing and standards compliance."
+    },
+    {
+      "category": "Loss Prevention & Compliance",
+      "name": "Product Recall Management",
+      "business_purpose_raw": "Coordinating removal of unsafe or recalled products."
+    },
+    {
+      "category": "Loss Prevention & Compliance",
+      "name": "Data Privacy Compliance",
+      "business_purpose_raw": "Ensuring customer data handling meets privacy regulations."
+    },
+    {
+      "category": "Loss Prevention & Compliance",
+      "name": "Age-Restricted Sales Verification",
+      "business_purpose_raw": "Verifying customer age for restricted product sales."
+    },
+    {
+      "category": "Loss Prevention & Compliance",
+      "name": "Internal Audit",
+      "business_purpose_raw": "Conducting periodic internal control and process audits."
+    },
+    {
+      "category": "Loss Prevention & Compliance",
+      "name": "Insurance Claims Management",
+      "business_purpose_raw": "Processing claims for property, liability, or goods damage."
+    },
+    {
+      "category": "Loss Prevention & Compliance",
+      "name": "Contract Management",
+      "business_purpose_raw": "Managing lifecycle of supplier and partner contracts."
+    },
+    {
+      "category": "Loss Prevention & Compliance",
+      "name": "Environmental Sustainability Reporting",
+      "business_purpose_raw": "Tracking and reporting on sustainability metrics."
+    }
+  ]
+}

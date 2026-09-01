@@ -1,0 +1,24 @@
+The EU AI Act, in force since August 2024, establishes a four-tier risk
+classification for AI systems — unacceptable, high, limited, and minimal
+risk — with compliance obligations scaling directly with assessed risk.
+Minimal-risk systems face no mandatory requirements, while systems
+classified as high-risk (per Annex III, covering areas such as employment,
+biometrics, critical infrastructure, essential services, and
+administration of justice) must complete a formal conformity assessment,
+produce extensive technical documentation, register in an EU database,
+implement a risk management system, establish data governance measures,
+build in human oversight mechanisms, and demonstrate accuracy, robustness,
+and incident-logging capability before market entry. The phased
+implementation timeline has shifted: prohibitions on unacceptable-risk
+practices became enforceable in February 2025, general-purpose AI model
+provider obligations applied from August 2025, and — following a Digital
+Omnibus amendment enacted in mid-2026 — the full high-risk system
+obligations were postponed, now applying from December 2027 (Annex III
+systems) and August 2028 (Annex I systems) rather than the originally
+planned August 2026 date. For enterprise AI governance purposes, the
+practical takeaway repeated across compliance guidance is that
+organisations should not wait for enforcement deadlines: AI inventories,
+risk classification, model documentation, and defined human-oversight/
+escalation paths are increasingly expected by customers, boards, and
+regulators regardless of the exact enforcement date, and are far cheaper
+to build in from the start than to retrofit under deadline pressure.

@@ -1,0 +1,22 @@
+Conversational AI adoption in customer service has moved from experimental
+to mainstream: industry surveys report that the large majority of contact
+centres have implemented some form of AI-powered support, and analyst
+forecasts (Gartner-cited) project agentic AI systems will be able to
+autonomously resolve a large share of common, routine service requests
+within the next few years, interpreting intent, retrieving information, and
+completing multi-step actions rather than just answering FAQs. However,
+adoption headlines significantly outrun customer sentiment: independent
+survey data (SurveyMonkey, December 2025, ~2,000 US respondents) found a
+strong majority of consumers still prefer speaking with a human agent over
+an AI agent, with trust cited as the central issue — most respondents
+believe human agents provide more accurate support, and confidence in
+being able to tell whether they're talking to a bot or a person is mixed.
+This gap matters operationally: routine, high-volume, low-ambiguity
+interactions (order status, simple FAQs, basic complaint triage) are the
+strongest fit for automation, while complex complaints, escalations, and
+interactions involving frustrated or high-value customers continue to
+require human agents, with AI increasingly used to summarise context and
+suggest responses to the human rather than to resolve the interaction
+autonomously. Younger customers show somewhat higher openness to AI-first
+service than older customers, but the preference for human contact
+persists across all age groups surveyed.

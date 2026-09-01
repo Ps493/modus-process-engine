@@ -1,0 +1,21 @@
+Research compiled from PwC's Global AI Jobs Barometer, McKinsey Global
+Institute, and the World Economic Forum's Future of Jobs Report indicates
+that automation exposure varies sharply by task structure rather than by
+industry alone. Roles built on routine, predictable, codifiable tasks with
+well-defined inputs and outputs — data entry, invoice/document processing,
+basic customer service scripting, scheduling, and reconciliation — show
+the highest displacement risk, while roles requiring judgement in
+ambiguous situations, relationship management, creative synthesis, or
+physical presence show materially lower risk. Notably, PwC's research
+found that employment has continued growing even in highly AI-exposed
+occupations (though at a slower rate than less-exposed occupations),
+suggesting the near-term effect is more about task-level automation and
+role redefinition than wholesale elimination of job categories. McKinsey
+research cited in workforce studies estimates that organisations adopting
+AI at scale expect that over 20% of their workforce will need reskilling,
+rising above 30% among the highest-performing AI adopters. Early-career
+workers in highly AI-exposed occupations show a more pronounced relative
+decline in entry-level hiring than experienced workers in the same
+occupations, per Stanford Digital Economy Lab research — indicating
+organisations are adjusting hiring pipelines before touching existing
+headcount.

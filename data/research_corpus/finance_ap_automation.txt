@@ -1,0 +1,20 @@
+Accounts payable is consistently identified as one of the highest-ROI,
+fastest-to-implement AI/automation use cases in finance functions, ranked
+by Gartner's 2025 survey as the second most common finance AI use case.
+The underlying reason is structural: invoice processing is high-volume,
+rule-governed, and involves matching against purchase orders and receiving
+documents — a well-structured task with a clear, auditable correct answer,
+which is exactly the profile that favours automation over open-ended AI
+reasoning. Despite this fit, actual automation levels lag adoption
+headlines: industry surveys (IFOL 2025 Accounts Payable Automation Trends
+Report) found that roughly two-thirds of AP teams still manually key
+invoice data into ERP/accounting systems, and about three-quarters have
+not fully automated core AP workflows, indicating a meaningful gap between
+available technology and deployed reality. Where AI-driven matching and
+anomaly detection is deployed, unmatched or exception items (typically
+3-8% of transaction volume) are routed to a human for review rather than
+resolved autonomously — a human-in-the-loop pattern that appears
+consistently across finance automation writeups. Fraud risk and invoice
+exceptions remain the top cited operational challenges even in automated
+AP environments, reinforcing that full autonomy without human oversight is
+not yet standard practice even in this highly automatable process.

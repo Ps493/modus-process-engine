@@ -1,0 +1,25 @@
+Computer vision is becoming the primary technology upgrade path for retail
+loss prevention, converting existing security camera infrastructure into
+real-time monitoring platforms rather than after-the-fact review tools.
+Industry analysis (BizTech Magazine, citing Forrester and IDC) reports
+that IDC projects roughly half of large retailers will expand computer
+vision for store monitoring by 2028, with associated shrinkage reductions
+around 40%. The mechanism is consistent across vendors: cameras positioned
+over self-checkout lanes cross-reference scanned items against items
+physically placed in the bag, flagging mismatches (missed scans, barcode
+swapping, concealment) in near real time — industry reporting cites
+roughly a two-second alert latency — and routing the flagged event to a
+human attendant for a polite, non-confrontational intervention rather than
+having the system act autonomously. This human-in-the-loop pattern is
+consistent across every vendor reviewed. Self-checkout is specifically
+called out as the highest-shrink checkout format, reportedly losing
+significantly more per dollar than staffed lanes, which is why it is the
+first place retailers deploy this technology. Beyond fraud detection, the
+same camera infrastructure is increasingly reused for adjacent operational
+purposes — queue-length monitoring feeding into staffing/scheduling
+systems, and automated incident-ticket creation with supporting video
+clips that significantly reduces manual investigation time. Privacy design
+is a recurring theme: several vendors explicitly avoid biometric/facial
+recognition data, instead using anonymised behavioural and item-level
+detection to reduce regulatory exposure (e.g., under biometric privacy
+laws such as BIPA) while still achieving the fraud-detection outcome.
