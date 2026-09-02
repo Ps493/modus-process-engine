@@ -16,7 +16,19 @@ import os
 import sys
 import time
 
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "backend"))
+_here = os.path.dirname(__file__)
+for _candidate in (
+    os.path.join(_here, "..", "backend"),  # host layout
+    os.path.join(_here, ".."),             # docker layout
+):
+    if os.path.exists(os.path.join(_candidate, "config.py")):
+        sys.path.insert(0, _candidate)
+        break
+else:
+    raise RuntimeError(
+        "Could not locate backend/config.py from either expected location. "
+        "Run this script from the project root, or inside the backend container."
+    )
 
 from database.session import SessionLocal, Base, engine  # noqa: E402
 from services.analysis_pipeline import analyze_and_persist_process  # noqa: E402

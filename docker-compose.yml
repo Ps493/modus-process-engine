@@ -12,7 +12,7 @@ services:
     volumes:
       - pgdata:/var/lib/postgresql/data
     healthcheck:
-      test: ["CMD-SHELL", "pg_isready -U modus"]
+      test: ["CMD-SHELL", "pg_isready -U modus -d modus_process_engine"]
       interval: 5s
       timeout: 5s
       retries: 5
@@ -31,6 +31,7 @@ services:
     volumes:
       - ./backend:/app
       - ./data:/app/data
+      - ./scripts:/app/scripts
       - chroma_store:/app/chroma_store
     ports:
       - "8000:8000"
